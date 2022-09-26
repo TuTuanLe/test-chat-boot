@@ -1,0 +1,14 @@
+{
+  "name": "test-chat-boot",
+  "version": "1.0.0",
+  "description": "tutuanle",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tutuanle",
+  "license": "ISC",
+  "dependencies": {
+    "bootbot": "^1.1.0"
+  }
+}

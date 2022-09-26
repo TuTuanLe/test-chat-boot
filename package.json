@@ -4,11 +4,13 @@
   "description": "tutuanle",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
   },
   "author": "tutuanle",
   "license": "ISC",
   "dependencies": {
-    "bootbot": "^1.1.0"
+    "bootbot": "^1.1.0",
+    "nodemon": "^2.0.20"
   }
 }
